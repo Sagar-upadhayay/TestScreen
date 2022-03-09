@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/btn.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/gra.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.1" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/red.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/tab.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/tabindicator.xml" value="0.162109375" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/drawable/viewpager.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/activity_call.xml" value="0.2" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/activity_home_screen.xml" value="0.16" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/activity_main.xml" value="0.13" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/fragment_sign_in.xml" value="0.14" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/fragment_sign_up.xml" value="0.16" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/itemsample.xml" value="0.25" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/menu.xml" value="0.1611799914493373" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/layout/signi_layout.xml" value="0.2" />
+        <entry key="..\:/Users/sagar upadhyay/AndroidStudioProjects/TestScreen/app/src/main/res/menu/menu.xml" value="0.1611799914493373" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
